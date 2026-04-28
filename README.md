@@ -10,3 +10,5 @@ git init
 https://www.toptal.com/developers/gitignore
 
 git status
+git add ./.gitignore
+git add ./README.md
