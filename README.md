@@ -35,3 +35,9 @@ git checkout main
 
 
 https://github.com/
+
+git commit -am "edit readme"
+
+git remote add origin https://github.com/Stanislav/test_jr.git
+git branch -M main
+git push -u origin main
