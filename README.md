@@ -23,3 +23,15 @@ git commit -m "Add project"
 
 git add .
 git commit -m "Add main.py"
+
+git log
+git log --oneline
+git log --graph
+
+
+git checkout 0307cf
+git branch
+git checkout main
+
+
+https://github.com/
